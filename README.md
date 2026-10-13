@@ -17,6 +17,7 @@ Cybersecurity student interested in cybersecurity, software development, and tec
 
 ## Projects
  - Sentinel Security Monitor
+  - https://github.com/trevlamoglia/sentinel-security-monitor
 
 ## Currently Learning
 - CompTIA Security+
